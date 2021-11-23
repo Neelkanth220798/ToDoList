@@ -1,0 +1,45 @@
+
+.container{
+    margin-left: 450px;
+    margin-top: 100px;
+    font-family: 'Lucida Sans';
+    width: 750px;
+    height: 200px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.app{
+    background: rgba(255, 255, 255, 0.918);
+}
+
+span{
+
+    color: rgb(255, 255, 255);
+    background: black;
+    font-size: larger;
+
+}
+
+h2{
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.close{
+
+    background-color: #e71313; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+li{
+
+    padding: 5px;
+}
